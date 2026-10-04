@@ -146,3 +146,5 @@ lijit.com, 584539, RESELLER, fafdf38b16bf6b2b
 bluexad.ai, 2064614586140594176, RESELLER
 bidplay.ai, 2607009, RESELLER
 taipeidigital.com, 01012311678, RESELLER
+
+google.com, pub-5606583303926630, DIRECT, f08c47fec0942fa0
